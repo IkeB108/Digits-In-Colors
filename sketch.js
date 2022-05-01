@@ -68,6 +68,9 @@ function setup() {
     random_pastels.push( averageColors( color(random(255),random(255),random(255)), color(100) ) )
   }
   
+  mtb = getMenuToggle();
+  var factorBoxes = getFactorBoxes();
+  icon_size = factorBoxes[0].h * (2/4)
   
 }
 
