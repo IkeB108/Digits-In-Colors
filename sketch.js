@@ -47,7 +47,7 @@ function setup() {
   number_position = {'x':width/2,'y':height/2}
   
   //UI things
-  menu_open = true;
+  menu_open = false;
   menu_height = height/2;
   mouse_over_at_press = null;
   mouse_over_at_release = null;
