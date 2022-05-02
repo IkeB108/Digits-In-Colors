@@ -385,7 +385,7 @@ function onclick_ui(){
   }
   
   if(mouse_over_at_press == "information"){
-    window.open("https://www.youtube.com", "_blank")
+    window.open("https://www.youtube.com/watch?v=XH9-f3pKiBE", "_blank")
   }
   //Check for button clicks on factors...
   var moatps = mouse_over_at_press.split(' ')
